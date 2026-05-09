@@ -117,6 +117,11 @@ streamlit run app.py
 
 --
 
+## Demo Video
+![Watch Demo video](https://drive.google.com/file/d/1BpeIMw3htAm5kHv-yzUV4RhA_94mgVqr/view?usp=drive_link)
+
+--
+
 ## 🎓 Learning Outcomes
 Resume parsing from PDF/DOCX using Python
 NLP preprocessing pipeline
