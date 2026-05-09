@@ -108,6 +108,15 @@ streamlit run app.py
 
 --
 
+
+## 📸 Screenshots
+
+![Dashboard](outputs/dashboard1.png)
+![Dashboard](outputs/dashboard2.png)
+![Dashboard](outputs/dashboard3.png)
+
+--
+
 ## 🎓 Learning Outcomes
 Resume parsing from PDF/DOCX using Python
 NLP preprocessing pipeline
