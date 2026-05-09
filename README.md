@@ -63,6 +63,7 @@ machine learning to match resumes to job descriptions and rank candidates.
 ---
 
 ## 📁 Project Structure
+
 Automated-Resume-Screening-Tool/
 ├── resumes/              ← Sample resume files
 ├── data/                 ← Job description & skills list
@@ -78,11 +79,13 @@ Automated-Resume-Screening-Tool/
 ├── main.py               ← CLI execution
 ├── requirements.txt
 └── README.md
+
+
 ---
 
 ## ⚙️ Installation
 
-```bash
+bash
 git clone https://github.com/YOUR_USERNAME/Automated-Resume-Screening-Tool.git
 cd Automated-Resume-Screening-Tool
 
@@ -92,9 +95,13 @@ source venv/bin/activate     # Mac/Linux
 
 pip install -r requirements.txt
 
+--
+
 ## How to Run
 # CLI mode
 python main.py
+
+--
 
 # Dashboard mode
 streamlit run app.py
