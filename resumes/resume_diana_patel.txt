@@ -1,0 +1,33 @@
+Diana Patel
+Email: diana.patel@email.com | GitHub: github.com/dianapatel
+
+PROFILE
+Machine Learning Engineer with 2 years hands-on experience.
+Specialist in NLP, deep learning, and production ML pipelines.
+
+SKILLS
+Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, NLP,
+Natural Language Processing, Scikit-learn, Pandas, NumPy, Keras,
+SQL, Git, GitHub, Docker, Kubernetes, Flask, REST API,
+Data Analysis, Feature Engineering, MLflow
+
+EXPERIENCE
+ML Engineer | AI Startup | 2022 - 2024
+- Designed and deployed NLP models for text classification
+- Built deep learning pipelines using TensorFlow and PyTorch
+- Implemented REST APIs for model serving with Flask
+- Used Git and GitHub for all version control
+- Optimized models achieving 15% accuracy improvement
+
+EDUCATION
+M.Tech - Artificial Intelligence
+Tech Institute | 2020 - 2022
+
+PROJECTS
+- Chatbot using NLP and Transformers
+- Image Classification using Deep Learning
+- Resume Screening System using TF-IDF and Cosine Similarity
+
+CERTIFICATIONS
+- TensorFlow Developer Certificate (Google)
+- Deep Learning Specialization (Coursera)

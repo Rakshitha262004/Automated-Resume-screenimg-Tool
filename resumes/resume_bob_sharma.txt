@@ -1,0 +1,26 @@
+Bob Sharma
+Email: bob.sharma@email.com | Phone: +1-555-0102
+
+SUMMARY
+Frontend Developer with 3 years of experience in web development.
+Skilled in React, JavaScript, HTML, CSS, and Node.js.
+
+SKILLS
+JavaScript, React, HTML, CSS, Node.js, MongoDB, Express.js,
+jQuery, Bootstrap, Figma, Git, Photoshop, UI/UX Design
+
+EXPERIENCE
+Frontend Developer | WebAgency | 2021 - 2024
+- Built responsive web applications using React and JavaScript
+- Designed UI components with HTML, CSS, Bootstrap
+- Worked with MongoDB for database management
+- Used Git for version control
+
+EDUCATION
+Bachelor of Computer Applications
+City College | 2018 - 2021
+
+PROJECTS
+- E-commerce Website (React + Node.js)
+- Portfolio Website (HTML/CSS/JavaScript)
+- Blog Platform (MERN Stack)

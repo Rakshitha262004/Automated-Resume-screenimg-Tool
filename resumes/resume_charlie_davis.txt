@@ -1,0 +1,28 @@
+Charlie Davis
+Email: charlie.davis@email.com
+LinkedIn: linkedin.com/in/charliedavis
+
+OBJECTIVE
+Data Analyst with strong Python and SQL skills. Experienced in data visualization
+and statistical analysis. Familiar with machine learning concepts.
+
+SKILLS
+Python, SQL, Pandas, NumPy, Data Analysis, Data Visualization,
+Matplotlib, Seaborn, Excel, Tableau, Power BI, Statistics,
+Git, Scikit-learn, Jupyter Notebook
+
+EXPERIENCE
+Data Analyst | Analytics Co. | 2022 - 2024
+- Analyzed business datasets using Python and Pandas
+- Created dashboards using Tableau and Power BI
+- Wrote complex SQL queries for data extraction
+- Produced data visualizations using Matplotlib and Seaborn
+- Collaborated with teams using Git
+
+EDUCATION
+BSc Statistics | National University | 2019 - 2022
+
+PROJECTS
+- Customer Churn Analysis (Python + Scikit-learn)
+- Sales Dashboard (Tableau)
+- COVID-19 Data Analysis (Pandas + Matplotlib)

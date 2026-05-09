@@ -1,0 +1,31 @@
+Fiona Wright
+Email: fiona.wright@email.com | GitHub: github.com/fionawright
+
+SUMMARY
+Python Developer with 1.5 years of experience in automation and data science.
+Proficient in machine learning, SQL, and REST API development.
+
+SKILLS
+Python, Pandas, NumPy, Scikit-learn, Machine Learning, SQL, Git,
+GitHub, Flask, REST API, Data Analysis, Matplotlib, Automation,
+BeautifulSoup, Selenium, PostgreSQL, Data Visualization
+
+EXPERIENCE
+Python Developer | DataTech | 2023 - 2024
+- Automated data pipelines using Python and Pandas
+- Built machine learning models for prediction tasks
+- Developed REST API using Flask and PostgreSQL
+- Web scraping automation using BeautifulSoup and Selenium
+- Maintained code using Git and GitHub
+
+EDUCATION
+Bachelor of Engineering - Information Technology
+Regional University | 2019 - 2023
+
+PROJECTS
+- Automated Data Pipeline (Python + SQL)
+- Price Prediction Model (Scikit-learn)
+- Web Scraper for job listings (Python + Selenium)
+
+CERTIFICATIONS
+- Python for Data Science (IBM)

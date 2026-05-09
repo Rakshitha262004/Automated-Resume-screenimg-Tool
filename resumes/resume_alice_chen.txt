@@ -1,1 +1,33 @@
+Alice Chen
+Email: alice.chen@email.com | Phone: +1-555-0101
+GitHub: github.com/alicechen | LinkedIn: linkedin.com/in/alicechen
 
+OBJECTIVE
+Passionate Python Developer with 2 years of experience in machine learning and data analysis.
+Seeking a challenging role to apply NLP and deep learning expertise.
+
+SKILLS
+Python, Pandas, NumPy, Scikit-learn, TensorFlow, Machine Learning, Deep Learning,
+Natural Language Processing, NLP, Data Analysis, Data Visualization, Matplotlib,
+Seaborn, SQL, Git, GitHub, Flask, REST API, Docker
+
+EXPERIENCE
+Data Scientist Intern | TechCorp | 2022 - 2023
+- Built machine learning models using Scikit-learn and TensorFlow
+- Performed data analysis on large datasets using Pandas and NumPy
+- Developed REST API endpoints using Flask
+- Created data visualizations using Matplotlib and Seaborn
+- Maintained code repositories using Git and GitHub
+
+EDUCATION
+Bachelor of Engineering - Computer Science
+State University | 2020 - 2024 | GPA: 8.9/10
+
+PROJECTS
+- Resume Screening Tool using NLP and TF-IDF
+- Sentiment Analysis using Deep Learning (LSTM)
+- Sales Prediction using Machine Learning
+
+CERTIFICATIONS
+- Google Data Analytics Certificate
+- AWS Machine Learning Specialty
